@@ -1,0 +1,14 @@
+body{background-color: #220022;
+     color: #ccc;
+     font-family:"Fira Mono",monospace;
+     line-height:1.5em;
+     background-image:url(favicon.svg),none;
+     background-repeat:no-repeat;
+     background-position:center}
+header{background-color: #221e1d;color: #ccc;font-family:"Fira Mono",monospace;line-height:1.5em;}
+header,main,aside,footer{display:block;max-width:42em;margin:0 auto;}
+header{text-align:center;padding:30px;}
+
+a:link, a:visited{text-decoration:none; color:#ccc;font-size:x-small}
+a:active, a:hover{text-decoration:none; color:#FFCC00;font-size:x-small}
+footer{font-size:x-small;padding-top:4em;text-align:center}
